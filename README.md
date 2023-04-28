@@ -1,7 +1,8 @@
 # Getting Started with Typescript App
 
-npm init -y
-npm i typescript --save
+### npm init -y
+
+### npm i typescript --save
 
 ## Available Scripts
 
